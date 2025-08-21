@@ -2,7 +2,7 @@
 
 In this exercise, you will create your own copy of this repository and optionally, set up a GitHub account.
 
-And finally login to your for this session prepared BTP subaccount.
+Finally you will login to for this session prepared BTP account.
 
 ## Exercice 0.2 - (Optional) Create a GitHub account
 
@@ -50,6 +50,6 @@ Now that you have everything you need to successfully go through this TechEd ses
 
 - A GitHub account.
 - Your own fork of the session's GitHub repository.
-- A BTP global account with prepare subaccounts.
+- A BTP global account with prepared subaccounts.
 
 Continue to [Set up your Delivery Pipeline and Transport Landscape](../ex1/README.md)
