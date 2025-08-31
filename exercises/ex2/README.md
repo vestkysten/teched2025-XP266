@@ -9,12 +9,20 @@ In this exercise, we will check whether the connection between SAP Cloud ALM and
 3. Search for destination CALM_FTR_CTMS_<Account_ID>
 4. Click Check Connection. The result shall be "HTTP request to destination succeeded".
  
-## Exercice 2.1 - Create a new Feature
+## Exercise 2.1 - Create a new Feature
 
-After completing these steps you will have created...
+1. Open SAP Cloud ALM.
+2. Go to the Features application.
+3. Select your project named ...
+4. Click Create in the top right corner.
+5. Add a meaningful name to your Feature.
+6. Add a Description.
+7. In the Additional Infromation section change the priority to "High" and select yourself as Responsible.
+8. Click on Save and Close.
+9. Your Feature is saved and shows up in the Features Overview list on the left hand side.
 
 ## Summary
 
-You've now ...
+You've now created the Feature for later usage in the deployment process.
 
 Continue to - [Develop your pro-code application](../ex3/README.md)
