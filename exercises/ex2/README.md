@@ -11,8 +11,7 @@ In this exercise, we will check whether the connection between SAP Cloud ALM and
 ![alt text](image-2.png)
 4. Click Check Connection. 
 ![alt text](image-3.png)
-5. The result shall be "HTTP request to destination succeeded".
-![alt text](image-4.png)
+5. The result in the dialog shall be "HTTP request (without authentication) to CALM_FTR_CTMS_XP266-0XX destination succeeded".![alt text](image-4.png)
  
 ## Exercise 2.1 - Create a new Feature
 
